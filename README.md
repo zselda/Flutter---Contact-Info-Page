@@ -1,4 +1,4 @@
-# flutter_app1
+# My Contact Info Page
 
 A new Flutter application.
 
